@@ -1,0 +1,1176 @@
+brand,supplier,unit_price,product_cost,product_rating
+Apple,Alibaba,686.9,474.06,4.3
+Google,Euro Logistics,978.26,519.66,2.9
+LG,Asian Manufacturing,275.51,185.48,3.9
+Sony,Amazon Supply,1120.49,564.86,4.8
+OnePlus,Direct Import,1282.18,695.54,2.9
+Apple,Domestic Producers,438.43,245.89,3.8
+HP,Alibaba,761.53,425.12,4.0
+Samsung,Amazon Supply,381.34,212.95,3.4
+LG,Asian Manufacturing,792.89,520.96,3.0
+Asus,Domestic Producers,868.5,537.15,2.6
+Samsung,Direct Import,989.81,528.66,2.7
+LG,Direct Import,1433.55,993.63,4.4
+HP,Asian Manufacturing,596.0,309.64,4.1
+Lenovo,Domestic Producers,772.2,404.95,3.7
+Microsoft,Alibaba,244.71,166.86,3.1
+Google,Pacific Trade,1061.28,596.8,3.7
+Dell,Euro Logistics,910.72,489.03,4.8
+Sony,Asian Manufacturing,1207.67,830.76,4.6
+Dell,Amazon Supply,977.27,668.82,2.7
+Apple,Pacific Trade,454.78,231.5,3.3
+Apple,North American Supply,705.28,390.92,4.5
+Dell,Domestic Producers,663.78,369.19,3.8
+Samsung,MultiSource,383.2,253.08,2.7
+Asus,Amazon Supply,1482.95,970.52,3.0
+HP,Amazon Supply,207.18,137.38,4.2
+Asus,Euro Logistics,1147.71,750.89,2.7
+OnePlus,Domestic Producers,666.01,348.44,4.6
+Dell,Domestic Producers,1010.29,572.01,2.7
+LG,Amazon Supply,604.28,341.44,4.3
+Samsung,Asian Manufacturing,1028.82,696.97,3.6
+Microsoft,Amazon Supply,355.47,228.44,4.3
+Apple,Pacific Trade,929.66,608.18,3.7
+Microsoft,MultiSource,879.55,514.98,2.6
+OnePlus,North American Supply,340.26,172.27,4.0
+Sony,North American Supply,608.66,366.24,4.7
+Dell,Asian Manufacturing,524.08,305.05,4.3
+OnePlus,Euro Logistics,497.44,256.38,3.2
+Google,Amazon Supply,409.59,280.95,4.4
+Xiaomi,Global Trade,1023.42,690.08,4.4
+Google,Asian Manufacturing,442.54,300.27,3.8
+Sony,MultiSource,1249.67,848.8,3.3
+HP,Euro Logistics,343.07,187.17,3.5
+OnePlus,Direct Import,1263.42,849.2,2.5
+LG,North American Supply,863.97,504.11,3.0
+Samsung,Asian Manufacturing,355.82,201.94,4.8
+Samsung,North American Supply,620.16,374.43,4.2
+HP,Euro Logistics,672.72,467.11,4.8
+Apple,Asian Manufacturing,527.32,316.1,3.2
+Xiaomi,North American Supply,570.29,289.35,4.0
+LG,MultiSource,853.48,435.53,3.2
+HP,MultiSource,1380.75,756.53,2.8
+Sony,Euro Logistics,836.29,583.0,3.1
+LG,Direct Import,1073.78,700.45,3.1
+Asus,Euro Logistics,1146.68,657.69,4.0
+Google,Domestic Producers,1023.59,621.48,2.7
+HP,Domestic Producers,1285.89,725.44,2.9
+HP,North American Supply,253.01,156.41,4.1
+LG,Global Trade,221.56,133.47,3.0
+Asus,MultiSource,1038.72,555.58,4.2
+Samsung,Amazon Supply,702.76,483.04,2.8
+Sony,Global Trade,643.39,336.3,4.7
+OnePlus,Pacific Trade,1340.54,739.43,4.1
+Xiaomi,Amazon Supply,1262.39,771.37,3.8
+HP,Pacific Trade,514.41,266.78,4.7
+Xiaomi,MultiSource,1370.54,858.81,3.3
+Microsoft,Direct Import,653.97,421.94,4.7
+Samsung,Amazon Supply,1353.21,887.67,4.0
+OnePlus,Direct Import,309.38,164.69,4.7
+Microsoft,North American Supply,988.36,496.0,2.7
+Apple,Euro Logistics,1062.55,532.35,2.9
+HP,Global Trade,913.35,583.06,4.1
+Lenovo,Alibaba,491.55,315.79,3.1
+Google,Euro Logistics,623.02,404.53,4.1
+Asus,Global Trade,1303.99,823.5,3.9
+Asus,Amazon Supply,321.78,184.55,3.1
+OnePlus,Euro Logistics,517.19,359.24,3.4
+OnePlus,Direct Import,1359.66,851.46,4.4
+Xiaomi,Asian Manufacturing,853.43,525.18,3.7
+Cuisinart,Global Trade,236.67,137.41,3.2
+Electrolux,Direct Import,117.02,65.69,2.9
+Whirlpool,Domestic Producers,758.32,484.17,4.7
+Cuisinart,MultiSource,359.11,145.03,4.7
+Whirlpool,Amazon Supply,399.73,256.49,4.8
+Cuisinart,Euro Logistics,697.11,330.16,3.4
+Dyson,Alibaba,695.8,333.45,2.9
+Miele,Amazon Supply,489.76,310.53,4.2
+LG,MultiSource,499.04,211.74,4.0
+LG,Direct Import,793.04,344.99,3.7
+Samsung,Global Trade,714.16,417.92,4.2
+Bosch,Direct Import,591.74,289.88,3.2
+Samsung,Euro Logistics,666.55,401.62,4.6
+Electrolux,Domestic Producers,739.27,390.21,3.7
+Panasonic,Asian Manufacturing,658.81,370.57,4.2
+Dyson,Euro Logistics,657.05,409.01,3.3
+Panasonic,North American Supply,362.91,153.69,3.9
+Bosch,Direct Import,125.16,64.63,3.8
+Bosch,Amazon Supply,300.58,164.63,2.6
+Dyson,Asian Manufacturing,126.14,76.4,3.4
+LG,North American Supply,188.94,100.24,4.3
+Whirlpool,Domestic Producers,251.07,139.53,2.7
+Electrolux,Asian Manufacturing,136.18,72.56,3.8
+Miele,Asian Manufacturing,546.2,317.63,4.8
+Whirlpool,Amazon Supply,461.41,221.82,4.4
+Whirlpool,Asian Manufacturing,289.58,147.61,2.7
+LG,Alibaba,117.75,75.44,4.5
+Cuisinart,Amazon Supply,587.18,294.9,2.9
+Dyson,Euro Logistics,209.51,96.91,3.8
+Bosch,Asian Manufacturing,600.22,339.15,3.2
+Electrolux,Global Trade,768.41,449.12,3.8
+Miele,Domestic Producers,528.2,266.69,3.1
+Bosch,Asian Manufacturing,349.18,205.83,2.5
+Bosch,Pacific Trade,181.25,74.58,2.6
+Dyson,Amazon Supply,698.82,402.46,3.6
+LG,Pacific Trade,168.48,88.1,3.6
+Cuisinart,Pacific Trade,221.24,112.49,3.5
+Panasonic,MultiSource,531.1,296.76,2.6
+Whirlpool,Amazon Supply,362.23,201.57,3.7
+Whirlpool,Pacific Trade,699.54,395.01,2.9
+Cuisinart,Amazon Supply,149.4,83.75,2.6
+Dyson,Asian Manufacturing,510.04,323.9,3.9
+Electrolux,MultiSource,371.72,208.47,3.6
+Samsung,Pacific Trade,481.93,306.2,3.4
+Samsung,Euro Logistics,772.83,484.05,3.0
+Bosch,Asian Manufacturing,148.55,63.16,2.5
+LG,MultiSource,166.11,94.81,2.7
+Electrolux,Amazon Supply,323.28,197.59,2.6
+Whirlpool,Direct Import,670.13,315.27,2.8
+LG,Asian Manufacturing,587.72,327.5,4.6
+Samsung,Pacific Trade,614.55,369.26,3.2
+Bosch,MultiSource,224.21,131.76,4.4
+Dyson,Pacific Trade,793.35,399.18,3.4
+Whirlpool,Global Trade,643.49,312.22,4.7
+Whirlpool,Pacific Trade,700.89,355.53,4.3
+KitchenAid,MultiSource,628.18,267.47,4.7
+KitchenAid,Pacific Trade,453.68,275.21,3.3
+Electrolux,MultiSource,726.87,361.47,2.5
+Samsung,Asian Manufacturing,733.77,310.25,3.3
+KitchenAid,Asian Manufacturing,765.04,487.83,3.9
+Whirlpool,Domestic Producers,542.29,277.71,3.2
+Electrolux,Alibaba,330.07,187.52,4.3
+Cuisinart,Alibaba,654.11,390.77,2.7
+Whirlpool,Domestic Producers,446.09,184.86,3.8
+Bosch,Direct Import,409.07,254.41,3.3
+Samsung,Alibaba,181.95,79.28,4.3
+Electrolux,Amazon Supply,532.75,226.57,2.7
+Samsung,Amazon Supply,590.68,247.02,4.5
+Miele,Amazon Supply,594.37,249.84,2.7
+Dyson,Pacific Trade,790.65,390.24,3.4
+LG,Domestic Producers,668.96,426.0,4.9
+Dyson,Domestic Producers,627.36,309.96,2.7
+Miele,Alibaba,644.0,347.5,3.5
+Miele,Amazon Supply,734.45,314.2,3.7
+Panasonic,Domestic Producers,107.95,55.83,2.6
+Miele,Direct Import,183.17,78.65,4.1
+Cuisinart,Euro Logistics,622.23,339.64,4.8
+Dyson,North American Supply,362.41,170.85,4.6
+H&M,Pacific Trade,82.61,48.65,2.5
+Puma,Euro Logistics,291.57,91.25,4.6
+Levi's,North American Supply,167.76,100.3,2.7
+Adidas,Alibaba,175.08,103.44,3.8
+Levi's,Domestic Producers,196.23,99.83,3.6
+Mango,Amazon Supply,195.72,93.02,4.7
+Adidas,Direct Import,32.72,12.57,4.8
+Zara,Direct Import,269.27,117.59,4.0
+Puma,North American Supply,97.67,34.81,3.6
+Adidas,Asian Manufacturing,118.94,56.51,2.7
+Gucci,Euro Logistics,292.83,174.49,4.2
+Puma,MultiSource,170.11,66.83,4.5
+Forever 21,Euro Logistics,211.72,73.84,4.7
+Mango,Direct Import,250.31,146.42,4.2
+Nike,Direct Import,191.76,81.59,4.7
+H&M,Amazon Supply,262.5,82.31,2.6
+Puma,Euro Logistics,125.41,68.12,4.9
+Adidas,Direct Import,62.12,29.71,3.4
+Puma,Euro Logistics,291.58,161.14,4.5
+H&M,Domestic Producers,151.23,64.19,3.2
+Zara,North American Supply,35.79,20.02,4.5
+Zara,Euro Logistics,299.92,179.65,3.8
+Forever 21,MultiSource,235.32,137.29,4.5
+Nike,Amazon Supply,89.26,38.84,2.8
+Tommy Hilfiger,Pacific Trade,287.13,138.35,3.0
+H&M,Alibaba,208.08,101.01,3.4
+Nike,North American Supply,51.8,25.98,3.7
+Puma,Euro Logistics,236.25,107.74,4.5
+Puma,MultiSource,174.53,81.73,4.6
+Forever 21,Pacific Trade,132.98,45.24,2.6
+Forever 21,Alibaba,231.44,112.5,4.2
+Adidas,Amazon Supply,79.63,27.15,2.5
+Forever 21,Alibaba,118.16,56.36,3.4
+Gucci,Domestic Producers,142.49,81.4,3.3
+Forever 21,Global Trade,163.92,87.71,3.5
+Louis Vuitton,Global Trade,194.18,108.49,4.8
+Nike,Euro Logistics,61.18,35.36,3.7
+Gucci,Alibaba,92.31,40.41,4.9
+Gucci,Asian Manufacturing,157.93,62.95,4.0
+Zara,Amazon Supply,87.24,28.16,2.8
+Gucci,Direct Import,55.85,19.3,2.8
+Louis Vuitton,Domestic Producers,199.44,70.71,3.3
+Calvin Klein,Global Trade,271.1,119.88,4.1
+Zara,Global Trade,68.25,24.41,2.6
+Puma,Pacific Trade,67.3,25.81,2.9
+Nike,Global Trade,44.84,15.07,3.6
+Calvin Klein,North American Supply,77.77,31.83,3.7
+Louis Vuitton,Asian Manufacturing,213.31,66.51,4.4
+H&M,Global Trade,195.81,63.55,4.6
+Calvin Klein,Amazon Supply,277.84,88.44,3.2
+Louis Vuitton,Alibaba,245.74,128.89,2.9
+Levi's,Asian Manufacturing,78.62,32.32,3.7
+Zara,MultiSource,193.11,79.31,3.6
+Gucci,Euro Logistics,229.29,71.31,3.1
+Zara,Alibaba,219.74,124.94,3.7
+Tommy Hilfiger,Asian Manufacturing,168.99,56.13,3.6
+Louis Vuitton,North American Supply,169.13,63.04,3.1
+H&M,Amazon Supply,125.64,38.45,3.3
+H&M,North American Supply,79.21,31.55,2.8
+Tommy Hilfiger,Direct Import,269.35,128.77,4.1
+Louis Vuitton,Direct Import,240.97,108.32,2.7
+Gucci,Alibaba,170.39,81.11,4.3
+H&M,Global Trade,140.86,47.65,3.2
+Mango,Euro Logistics,121.66,60.07,3.9
+Nike,Amazon Supply,119.71,71.34,4.0
+Mango,Pacific Trade,86.42,28.56,2.9
+Gucci,North American Supply,88.87,30.94,2.9
+Louis Vuitton,Domestic Producers,99.83,35.14,4.7
+Estée Lauder,Pacific Trade,21.23,9.15,3.5
+Benefit,Asian Manufacturing,147.53,48.39,3.5
+Clinique,Alibaba,145.73,75.25,4.5
+Kiehl's,Alibaba,46.11,15.8,4.1
+MAC,Direct Import,140.11,61.54,3.9
+Maybelline,North American Supply,49.2,24.22,2.9
+Kiehl's,Amazon Supply,55.32,22.48,3.7
+Revlon,Domestic Producers,43.94,14.44,4.0
+Revlon,Amazon Supply,50.41,22.45,2.9
+Clinique,Direct Import,77.36,33.51,2.6
+Clinique,Pacific Trade,57.12,19.06,2.7
+Revlon,Pacific Trade,148.59,56.55,4.4
+Clinique,Direct Import,45.65,21.47,4.3
+Maybelline,Pacific Trade,93.39,39.03,3.5
+Kiehl's,Global Trade,58.84,31.33,4.5
+Benefit,Domestic Producers,145.1,48.04,4.3
+Clinique,Pacific Trade,141.37,48.82,2.7
+MAC,Alibaba,113.76,50.47,4.5
+Clinique,Euro Logistics,29.57,14.75,3.0
+Maybelline,Pacific Trade,32.91,11.22,4.5
+Benefit,North American Supply,103.13,44.42,3.4
+NARS,MultiSource,132.81,52.87,4.5
+NARS,Asian Manufacturing,71.48,28.18,3.6
+MAC,MultiSource,52.19,25.41,3.7
+CoverGirl,Amazon Supply,42.51,22.31,3.4
+Clinique,Direct Import,86.1,45.34,4.0
+Benefit,North American Supply,26.37,14.11,4.0
+Estée Lauder,Asian Manufacturing,56.89,19.05,4.4
+Clinique,Asian Manufacturing,96.81,41.95,4.6
+Maybelline,Global Trade,120.4,40.69,3.2
+L'Oreal,Alibaba,44.79,21.77,2.6
+Maybelline,MultiSource,89.78,44.05,4.6
+Benefit,Amazon Supply,57.89,29.25,2.8
+NARS,Pacific Trade,128.5,42.65,3.5
+Benefit,Asian Manufacturing,121.62,41.04,3.1
+Kiehl's,MultiSource,111.12,53.34,4.0
+Kiehl's,Asian Manufacturing,107.15,46.68,3.1
+CoverGirl,Alibaba,58.4,20.17,4.7
+Estée Lauder,Pacific Trade,91.67,36.69,3.6
+Maybelline,Global Trade,142.62,48.25,3.9
+MAC,MultiSource,80.82,36.6,2.5
+L'Oreal,Direct Import,132.1,70.41,3.9
+Maybelline,Amazon Supply,107.53,57.06,4.2
+NARS,Global Trade,31.36,13.93,4.0
+NARS,Direct Import,69.38,33.59,4.7
+MAC,Domestic Producers,139.58,57.61,2.8
+Revlon,MultiSource,147.88,75.38,2.8
+Benefit,Direct Import,138.92,71.89,3.7
+Kiehl's,Direct Import,92.78,37.09,2.6
+CoverGirl,MultiSource,56.93,28.51,2.5
+NARS,Euro Logistics,56.69,22.65,3.8
+Maybelline,Euro Logistics,138.78,53.65,3.3
+MAC,MultiSource,113.25,46.78,3.0
+Maybelline,Euro Logistics,73.34,24.58,2.9
+NARS,Amazon Supply,79.77,32.29,4.7
+Clinique,Asian Manufacturing,60.74,27.04,4.0
+Clinique,North American Supply,11.83,5.51,2.9
+Revlon,Direct Import,144.55,48.74,3.5
+Estée Lauder,Global Trade,21.95,12.06,3.7
+CoverGirl,Asian Manufacturing,93.35,29.57,4.3
+Kiehl's,Global Trade,39.39,20.66,3.0
+Estée Lauder,Pacific Trade,36.7,11.35,3.6
+Kiehl's,North American Supply,89.08,28.19,4.4
+MAC,MultiSource,73.46,31.67,3.6
+Kiehl's,Alibaba,66.11,29.08,2.9
+Maybelline,Pacific Trade,35.47,18.28,4.8
+Kiehl's,Domestic Producers,62.26,22.89,4.0
+L'Oreal,Domestic Producers,67.22,20.59,2.9
+Kiehl's,MultiSource,110.24,51.23,2.6
+Revlon,Euro Logistics,41.08,14.7,4.1
+Kiehl's,Pacific Trade,12.76,4.16,4.4
+MAC,Direct Import,35.0,16.21,3.1
+Benefit,Asian Manufacturing,23.92,8.63,4.2
+NARS,Asian Manufacturing,129.8,65.88,3.5
+Kiehl's,MultiSource,103.53,36.36,3.2
+L'Oreal,Pacific Trade,135.49,41.09,2.7
+Revlon,Pacific Trade,39.1,11.99,2.9
+CoverGirl,MultiSource,91.63,37.14,4.6
+CoverGirl,Domestic Producers,124.44,47.97,3.1
+MAC,Alibaba,63.16,28.27,3.1
+Kiehl's,Domestic Producers,97.38,39.18,3.8
+Benefit,Alibaba,71.06,26.55,4.8
+Estée Lauder,Pacific Trade,116.9,39.16,4.6
+Wayfair,Global Trade,202.66,116.25,4.4
+IKEA,Euro Logistics,178.71,63.55,3.1
+Home Depot,North American Supply,223.53,113.64,3.1
+Williams-Sonoma,MultiSource,68.65,38.36,4.9
+Walmart,North American Supply,217.39,85.42,3.2
+Home Depot,Euro Logistics,22.08,12.77,2.8
+Home Depot,Euro Logistics,236.96,99.17,3.8
+Wayfair,Alibaba,265.8,148.17,3.0
+IKEA,North American Supply,19.23,7.39,4.7
+Williams-Sonoma,Amazon Supply,351.45,175.5,3.9
+IKEA,Alibaba,271.04,106.75,4.7
+Williams-Sonoma,Asian Manufacturing,176.23,78.56,3.7
+IKEA,Domestic Producers,33.08,12.95,4.3
+Williams-Sonoma,Global Trade,46.88,23.48,3.1
+Wayfair,Amazon Supply,164.88,69.61,3.4
+Williams-Sonoma,MultiSource,291.83,123.82,3.9
+Target,North American Supply,198.28,102.3,4.7
+Pottery Barn,Domestic Producers,297.04,119.93,2.6
+Crate & Barrel,Global Trade,115.97,57.84,2.6
+Target,Amazon Supply,206.1,102.89,3.3
+IKEA,Euro Logistics,311.8,117.44,2.7
+Home Depot,Pacific Trade,295.35,139.96,4.2
+Williams-Sonoma,Amazon Supply,182.41,75.08,4.5
+Williams-Sonoma,Amazon Supply,322.78,169.03,3.2
+Target,Domestic Producers,242.24,106.64,2.7
+Crate & Barrel,Domestic Producers,368.17,141.45,4.8
+IKEA,North American Supply,186.71,73.99,3.8
+Home Depot,North American Supply,351.08,187.15,4.4
+Crate & Barrel,Direct Import,268.63,140.51,4.5
+Walmart,Alibaba,111.12,52.49,3.0
+Home Depot,MultiSource,395.25,231.62,2.6
+Crate & Barrel,Pacific Trade,286.65,166.63,2.9
+Walmart,MultiSource,233.66,135.26,2.6
+Pottery Barn,Pacific Trade,283.51,120.3,4.7
+Target,Domestic Producers,388.86,227.9,3.6
+Wayfair,MultiSource,346.89,194.65,3.3
+Home Depot,Domestic Producers,334.13,120.04,3.9
+Target,North American Supply,103.55,39.36,2.7
+Williams-Sonoma,Amazon Supply,283.07,123.13,4.2
+Target,MultiSource,40.16,17.22,3.8
+Williams-Sonoma,MultiSource,319.43,137.26,4.0
+Home Depot,North American Supply,356.1,179.46,3.1
+IKEA,MultiSource,24.39,13.84,2.6
+Walmart,Global Trade,351.76,169.63,4.8
+Wayfair,Asian Manufacturing,322.53,193.35,3.3
+Walmart,Euro Logistics,310.37,139.82,3.7
+Walmart,Euro Logistics,256.59,145.85,4.9
+Target,Direct Import,310.79,141.24,3.5
+IKEA,Direct Import,298.97,122.49,2.8
+Williams-Sonoma,Amazon Supply,151.53,63.92,3.2
+Williams-Sonoma,Pacific Trade,104.94,37.83,2.5
+Wayfair,Direct Import,395.27,180.62,3.4
+Williams-Sonoma,MultiSource,276.66,111.93,4.8
+Wayfair,MultiSource,317.74,118.31,3.5
+IKEA,Amazon Supply,353.46,207.19,3.6
+Williams-Sonoma,Pacific Trade,251.16,98.39,4.9
+Williams-Sonoma,Euro Logistics,104.19,61.02,4.1
+Walmart,MultiSource,248.98,119.06,3.1
+Walmart,Pacific Trade,82.96,33.61,2.9
+Walmart,North American Supply,315.14,137.88,2.6
+Wayfair,Euro Logistics,388.1,221.58,4.7
+Target,Euro Logistics,398.04,156.62,3.5
+Williams-Sonoma,Amazon Supply,306.92,160.83,2.9
+Williams-Sonoma,North American Supply,329.1,133.65,3.0
+Pottery Barn,Asian Manufacturing,221.74,110.48,3.9
+Williams-Sonoma,MultiSource,50.22,28.59,3.1
+Target,Domestic Producers,64.86,37.11,4.8
+Target,Amazon Supply,346.92,191.63,4.1
+Williams-Sonoma,Euro Logistics,227.08,84.42,3.5
+Williams-Sonoma,North American Supply,158.49,65.76,4.2
+The North Face,Alibaba,260.54,97.52,3.0
+Wilson,Global Trade,349.55,130.33,4.5
+The North Face,Alibaba,260.19,128.58,3.9
+Nike,Direct Import,416.72,189.33,4.1
+The North Face,Global Trade,293.72,126.33,4.6
+Puma,Amazon Supply,403.78,221.08,4.5
+Nike,Domestic Producers,436.96,245.79,4.5
+Puma,MultiSource,356.3,197.41,4.0
+Puma,North American Supply,382.54,152.09,4.6
+Under Armour,Alibaba,439.13,157.55,4.5
+The North Face,MultiSource,86.21,38.84,4.3
+Adidas,Amazon Supply,101.36,60.35,4.5
+Reebok,MultiSource,266.05,93.63,3.2
+Adidas,Domestic Producers,318.04,204.93,4.0
+Nike,Global Trade,148.41,80.17,3.8
+Under Armour,Domestic Producers,395.43,151.09,4.3
+Adidas,Asian Manufacturing,282.1,180.23,3.3
+Adidas,Direct Import,325.5,204.94,2.7
+Reebok,Domestic Producers,470.18,261.59,2.7
+Spalding,Domestic Producers,167.96,94.47,2.7
+Columbia,Direct Import,301.53,136.82,4.0
+Reebok,MultiSource,46.73,28.57,4.8
+Puma,Euro Logistics,485.22,278.95,2.8
+Spalding,Pacific Trade,385.18,137.65,2.6
+The North Face,Domestic Producers,178.71,88.75,4.3
+Nike,Domestic Producers,349.57,169.11,3.2
+Adidas,Asian Manufacturing,498.63,238.27,3.6
+Columbia,Euro Logistics,102.72,60.44,4.2
+Adidas,Global Trade,129.87,48.66,4.1
+Columbia,Global Trade,335.89,145.1,4.8
+Wilson,Amazon Supply,96.75,46.41,4.8
+Under Armour,Alibaba,224.37,121.51,3.5
+Reebok,MultiSource,155.25,100.17,3.5
+Spalding,MultiSource,449.7,188.42,3.0
+The North Face,Alibaba,39.79,21.71,3.4
+Columbia,Euro Logistics,435.57,214.28,4.8
+The North Face,MultiSource,113.12,69.07,4.4
+Adidas,Asian Manufacturing,391.19,236.06,4.3
+The North Face,Domestic Producers,322.45,125.55,2.6
+Columbia,Pacific Trade,462.4,247.38,4.4
+Adidas,Direct Import,253.72,97.73,2.8
+Columbia,Global Trade,350.64,167.99,3.0
+The North Face,Global Trade,258.51,95.46,3.9
+Adidas,Alibaba,152.77,90.02,3.2
+Under Armour,Euro Logistics,241.23,85.27,2.7
+Spalding,Domestic Producers,211.43,104.44,3.9
+The North Face,MultiSource,163.54,91.34,4.6
+Adidas,MultiSource,395.43,143.1,3.7
+The North Face,Pacific Trade,74.84,31.63,4.9
+The North Face,Direct Import,92.69,46.31,4.0
+Wilson,MultiSource,358.67,185.75,2.5
+Puma,Amazon Supply,180.07,90.99,2.7
+Spalding,Alibaba,191.55,68.95,2.7
+Reebok,North American Supply,213.54,83.24,3.9
+The North Face,Alibaba,352.5,208.04,3.0
+Adidas,Asian Manufacturing,104.55,39.87,4.0
+Spalding,Domestic Producers,360.58,129.62,4.7
+Nike,Euro Logistics,49.69,25.46,4.2
+Spalding,Alibaba,438.71,247.53,4.4
+Under Armour,MultiSource,186.24,110.71,2.7
+Wilson,MultiSource,450.04,231.45,4.5
+The North Face,Global Trade,239.85,130.26,3.8
+Spalding,Pacific Trade,372.51,139.5,2.6
+Puma,Amazon Supply,142.37,56.64,4.6
+Puma,North American Supply,129.13,83.0,3.3
+Reebok,North American Supply,111.51,65.45,4.1
+Patagonia,Amazon Supply,261.64,135.17,4.2
+Under Armour,North American Supply,133.52,86.64,4.8
+Puma,Euro Logistics,333.9,136.85,4.1
+Reebok,Direct Import,59.29,21.3,3.1
+Nike,MultiSource,244.75,149.42,4.2
+Adidas,North American Supply,377.79,180.45,3.3
+The North Face,North American Supply,201.24,130.06,2.6
+Adidas,Pacific Trade,436.84,228.73,3.6
+Wilson,Alibaba,369.5,183.27,4.6
+Wilson,MultiSource,452.83,215.78,3.2
+Reebok,Alibaba,306.37,191.09,3.0
+Columbia,Direct Import,320.91,173.12,4.3
+Patagonia,Domestic Producers,87.49,49.41,4.7
+Puma,Alibaba,110.35,46.49,4.8
+Columbia,Euro Logistics,110.96,67.28,3.7
+Wilson,Global Trade,142.43,87.06,3.6
+The North Face,MultiSource,269.54,123.39,3.9
+Puma,Amazon Supply,102.67,47.98,4.8
+Nike,Domestic Producers,147.61,80.75,3.3
+Columbia,Global Trade,392.4,152.75,4.8
+The North Face,Direct Import,240.55,101.23,2.7
+Nike,Direct Import,105.64,53.45,3.3
+Reebok,Amazon Supply,418.72,200.68,3.1
+Columbia,Amazon Supply,318.14,178.81,2.9
+Puma,Amazon Supply,104.62,37.77,4.3
+Simon & Schuster,MultiSource,56.47,22.3,4.5
+Hachette,Direct Import,66.4,27.69,4.6
+Hachette,Pacific Trade,24.41,7.87,3.1
+Pearson,MultiSource,14.0,5.69,4.7
+Random House,MultiSource,12.75,4.14,3.6
+Audible,Global Trade,75.37,27.38,3.7
+McGraw-Hill,Asian Manufacturing,12.91,4.26,4.9
+Audible,Global Trade,77.56,23.34,4.8
+HarperCollins,Euro Logistics,54.74,25.92,3.6
+McGraw-Hill,North American Supply,46.09,18.33,4.1
+Audible,Euro Logistics,19.78,6.05,3.2
+Penguin,Euro Logistics,59.33,20.19,4.1
+Hachette,Domestic Producers,77.89,24.83,4.1
+Pearson,Global Trade,41.06,19.45,2.9
+Pearson,Direct Import,58.48,27.35,4.8
+Scholastic,North American Supply,57.83,23.1,4.0
+Audible,Direct Import,70.82,29.33,2.6
+McGraw-Hill,MultiSource,75.17,32.92,4.1
+Scholastic,Asian Manufacturing,25.1,10.84,3.4
+Random House,Domestic Producers,55.59,17.86,4.1
+McGraw-Hill,Asian Manufacturing,79.96,24.76,4.8
+McGraw-Hill,Alibaba,38.48,18.25,4.4
+Scholastic,MultiSource,49.69,22.25,4.6
+McGraw-Hill,Pacific Trade,38.29,13.99,4.1
+Simon & Schuster,MultiSource,66.55,30.11,4.4
+Penguin,Global Trade,40.49,18.77,2.8
+Audible,Domestic Producers,48.11,14.49,3.3
+HarperCollins,MultiSource,35.65,13.52,4.2
+HarperCollins,Direct Import,37.2,14.5,3.1
+Pearson,Alibaba,36.13,12.48,2.7
+Simon & Schuster,Pacific Trade,52.24,22.65,4.0
+Simon & Schuster,Amazon Supply,42.44,15.96,4.6
+Pearson,Euro Logistics,46.34,18.34,2.6
+Scholastic,Domestic Producers,33.89,12.74,3.5
+McGraw-Hill,Amazon Supply,50.61,20.58,4.0
+Scholastic,Direct Import,63.54,29.39,4.2
+McGraw-Hill,North American Supply,76.89,23.35,3.0
+Pearson,Direct Import,10.53,4.52,4.7
+Penguin,Domestic Producers,27.04,13.13,2.6
+HarperCollins,Asian Manufacturing,75.41,27.93,2.7
+Hachette,Asian Manufacturing,44.01,15.46,3.2
+HarperCollins,Pacific Trade,31.51,14.51,3.8
+HarperCollins,Amazon Supply,31.79,13.42,4.2
+Pearson,Global Trade,29.08,11.13,2.8
+Hachette,Alibaba,22.68,9.89,2.9
+Penguin,North American Supply,46.76,20.66,2.8
+Penguin,Euro Logistics,49.71,17.46,4.8
+Scholastic,North American Supply,43.85,20.22,3.8
+McGraw-Hill,Global Trade,13.04,5.56,4.8
+Random House,Direct Import,52.11,24.17,4.6
+McGraw-Hill,Domestic Producers,25.97,8.89,4.0
+Simon & Schuster,Global Trade,38.77,18.14,4.7
+HarperCollins,Domestic Producers,34.74,12.07,4.4
+McGraw-Hill,Domestic Producers,29.24,13.58,3.5
+Random House,MultiSource,56.73,18.1,4.0
+Simon & Schuster,Asian Manufacturing,41.62,17.37,2.9
+Pearson,Euro Logistics,61.58,29.1,3.0
+Pearson,Euro Logistics,16.7,5.09,4.0
+Penguin,MultiSource,52.5,21.49,3.1
+Audible,Global Trade,37.36,15.65,3.7
+HarperCollins,MultiSource,79.14,25.9,4.2
+Scholastic,Domestic Producers,38.3,14.77,4.2
+Hachette,Pacific Trade,58.47,29.13,2.8
+Hachette,MultiSource,17.29,7.69,3.9
+Hachette,Asian Manufacturing,29.19,9.22,2.7
+McGraw-Hill,MultiSource,72.59,24.56,3.3
+HarperCollins,Asian Manufacturing,25.87,9.6,2.7
+McGraw-Hill,Domestic Producers,46.33,14.53,4.4
+Hachette,Euro Logistics,26.36,10.75,4.6
+Penguin,Pacific Trade,55.56,22.59,3.3
+Hachette,Alibaba,33.31,14.45,4.9
+Penguin,Domestic Producers,56.33,23.18,4.3
+Pearson,Euro Logistics,42.56,13.28,3.8
+Random House,Domestic Producers,77.03,25.81,4.2
+Scholastic,Asian Manufacturing,24.07,9.8,2.7
+Random House,Domestic Producers,41.53,18.74,3.3
+Hachette,Global Trade,56.54,25.96,4.7
+HarperCollins,Alibaba,26.42,10.04,2.9
+Pearson,Alibaba,79.47,38.57,3.8
+Scholastic,Global Trade,68.94,27.86,4.0
+HarperCollins,Euro Logistics,16.24,7.33,2.8
+Scholastic,Pacific Trade,67.82,30.95,4.2
+Simon & Schuster,Asian Manufacturing,12.53,4.52,3.1
+Simon & Schuster,Direct Import,35.21,11.18,4.7
+Scholastic,Direct Import,48.77,17.61,3.5
+Audible,Euro Logistics,41.3,17.35,3.7
+Simon & Schuster,Euro Logistics,74.36,29.7,4.9
+Melissa & Doug,North American Supply,172.51,60.75,4.7
+Hasbro,MultiSource,36.53,18.42,3.4
+Hasbro,Global Trade,177.43,91.73,4.4
+Fisher-Price,Pacific Trade,161.16,60.62,2.7
+Nerf,North American Supply,89.55,30.75,4.2
+Hasbro,Pacific Trade,79.03,42.98,4.0
+Lego,Euro Logistics,167.16,55.69,4.6
+Nerf,Amazon Supply,185.71,78.33,4.0
+Bandai,North American Supply,156.49,53.79,3.7
+Melissa & Doug,Domestic Producers,88.75,29.87,3.4
+Spin Master,North American Supply,27.61,8.46,2.8
+Hasbro,Asian Manufacturing,193.18,84.49,4.8
+Lego,Domestic Producers,95.01,35.91,3.7
+Nerf,North American Supply,96.31,31.44,4.0
+Barbie,Asian Manufacturing,54.97,25.01,4.1
+Hasbro,MultiSource,43.12,13.6,4.4
+Melissa & Doug,Pacific Trade,100.06,31.47,4.9
+Hasbro,Global Trade,25.69,12.17,4.9
+Lego,Alibaba,59.25,19.88,2.8
+Melissa & Doug,MultiSource,71.11,23.13,4.2
+Hasbro,Amazon Supply,26.52,11.33,4.9
+Fisher-Price,Direct Import,165.58,75.14,3.2
+Mattel,Pacific Trade,130.42,56.31,3.5
+Bandai,North American Supply,39.18,20.44,3.6
+Nerf,Pacific Trade,51.01,19.99,3.5
+Barbie,Global Trade,168.09,81.26,4.3
+Spin Master,Amazon Supply,17.04,6.88,3.7
+Bandai,Domestic Producers,18.55,6.77,4.3
+Spin Master,Euro Logistics,40.37,17.51,3.0
+Lego,North American Supply,17.24,6.21,4.8
+Fisher-Price,MultiSource,163.28,88.15,3.7
+Bandai,Asian Manufacturing,35.3,15.43,3.6
+Ravensburger,Amazon Supply,171.21,55.56,3.7
+Ravensburger,Direct Import,42.76,16.3,4.3
+Ravensburger,Alibaba,103.06,40.6,3.4
+Spin Master,Euro Logistics,100.0,49.63,4.6
+Fisher-Price,Amazon Supply,191.74,95.24,3.3
+Bandai,Amazon Supply,142.3,58.26,3.1
+Fisher-Price,Domestic Producers,170.56,52.81,4.7
+Lego,North American Supply,100.37,46.1,4.1
+Fisher-Price,Global Trade,180.6,82.93,4.0
+Barbie,Asian Manufacturing,27.33,11.74,2.9
+Hasbro,Direct Import,151.43,64.82,4.1
+Fisher-Price,Domestic Producers,22.71,7.29,4.2
+Fisher-Price,North American Supply,28.34,9.01,2.5
+Mattel,Domestic Producers,191.95,92.98,3.3
+Lego,Euro Logistics,69.86,27.07,4.4
+Mattel,Global Trade,137.35,47.56,2.9
+Nerf,Euro Logistics,33.2,15.44,4.3
+Mattel,Amazon Supply,64.03,19.54,2.7
+Lego,Global Trade,194.05,72.55,4.3
+Lego,North American Supply,130.56,51.63,3.0
+Barbie,North American Supply,37.46,17.0,4.4
+Lego,Global Trade,134.12,58.02,2.6
+Melissa & Doug,Alibaba,194.17,97.02,3.2
+Mattel,Pacific Trade,196.29,88.42,3.9
+Nerf,Amazon Supply,153.39,77.15,4.1
+Hasbro,MultiSource,38.7,14.88,4.7
+Bandai,North American Supply,56.55,22.23,3.5
+Nerf,Domestic Producers,96.29,43.64,4.8
+Bandai,Direct Import,59.53,19.67,3.0
+Fisher-Price,Domestic Producers,179.08,82.64,3.2
+Lego,Direct Import,165.95,85.52,4.5
+Melissa & Doug,MultiSource,185.0,67.17,4.3
+Lego,Alibaba,100.2,51.15,4.2
+Bandai,Pacific Trade,158.64,73.62,2.9
+Hasbro,MultiSource,115.83,63.26,4.7
+Bandai,Amazon Supply,22.99,7.84,2.8
+Hasbro,North American Supply,149.31,75.32,3.0
+Barbie,Global Trade,108.58,55.39,4.3
+Hasbro,Global Trade,115.31,51.61,3.7
+Melissa & Doug,Domestic Producers,70.05,30.91,4.2
+Barbie,Direct Import,176.56,81.05,4.3
+Ravensburger,Pacific Trade,44.61,18.53,2.5
+Barbie,Direct Import,60.64,29.21,4.9
+Melissa & Doug,MultiSource,33.35,13.35,4.4
+Nerf,Domestic Producers,52.75,23.15,4.3
+Bridgestone,Amazon Supply,377.27,172.19,3.4
+Thule,Asian Manufacturing,474.6,268.75,2.5
+Castrol,MultiSource,461.37,189.44,4.3
+Bosch,Pacific Trade,137.44,94.48,3.4
+Mobil,MultiSource,209.62,93.21,3.2
+Castrol,Pacific Trade,528.46,369.34,3.4
+Bridgestone,North American Supply,280.19,172.77,4.6
+Castrol,North American Supply,363.97,188.34,3.5
+Continental,North American Supply,423.46,169.79,4.0
+Goodyear,MultiSource,226.19,144.37,2.7
+Bridgestone,Amazon Supply,361.16,196.58,4.0
+Bridgestone,Pacific Trade,57.62,33.07,3.8
+Bridgestone,North American Supply,345.18,200.57,4.1
+Goodyear,Direct Import,486.89,234.17,4.5
+Michelin,Domestic Producers,308.99,130.74,2.6
+Thule,Direct Import,213.86,135.9,4.2
+Mobil,Amazon Supply,477.4,265.04,3.6
+Mobil,Pacific Trade,105.52,52.6,3.5
+Michelin,Euro Logistics,71.39,33.28,3.9
+Yakima,Euro Logistics,446.68,312.45,4.7
+Mobil,Amazon Supply,392.69,206.7,4.0
+Yakima,Direct Import,475.68,207.16,3.5
+Bosch,Global Trade,507.09,261.23,3.9
+Valvoline,Asian Manufacturing,360.91,164.34,3.4
+Bridgestone,North American Supply,214.02,87.29,2.6
+Thule,North American Supply,502.38,242.11,3.7
+Bridgestone,Euro Logistics,193.26,131.84,3.1
+Yakima,Asian Manufacturing,269.2,178.16,4.5
+Thule,Domestic Producers,127.94,81.98,3.6
+Yakima,Direct Import,300.12,132.07,2.7
+Michelin,Domestic Producers,442.2,242.74,3.5
+Continental,Alibaba,443.11,279.01,2.9
+Goodyear,Euro Logistics,373.93,164.76,4.3
+Continental,North American Supply,401.03,275.5,2.7
+Mobil,Alibaba,53.09,25.73,3.1
+Goodyear,Global Trade,163.25,109.68,3.1
+Yakima,Pacific Trade,177.73,111.58,3.6
+Bridgestone,Global Trade,470.49,197.42,3.7
+Michelin,Amazon Supply,39.5,16.54,4.7
+Bosch,Pacific Trade,100.76,56.4,3.5
+Castrol,MultiSource,221.46,148.37,2.6
+Mobil,Global Trade,405.0,279.05,3.8
+Mobil,Euro Logistics,563.36,234.18,3.5
+Mobil,Domestic Producers,170.89,105.82,4.9
+Yakima,Amazon Supply,168.79,100.64,3.0
+Michelin,Global Trade,347.89,187.58,4.8
+Goodyear,Domestic Producers,372.95,188.28,2.8
+Michelin,Amazon Supply,107.72,50.37,3.1
+Continental,MultiSource,513.36,291.78,3.8
+Castrol,MultiSource,86.57,56.97,4.2
+Yakima,MultiSource,59.25,36.28,3.8
+Castrol,Euro Logistics,67.4,36.23,3.7
+Thule,Amazon Supply,116.15,79.41,4.5
+Mobil,Pacific Trade,408.03,219.8,3.5
+Bridgestone,Euro Logistics,397.56,224.08,2.6
+Yakima,MultiSource,317.25,203.65,3.6
+Thule,Euro Logistics,50.13,31.88,3.0
+Michelin,Asian Manufacturing,170.0,76.4,3.3
+Castrol,Domestic Producers,458.92,255.07,3.0
+Michelin,Alibaba,529.14,351.28,4.6
+Continental,Asian Manufacturing,158.5,84.86,4.9
+Goodyear,Euro Logistics,467.77,190.92,2.7
+Continental,North American Supply,289.08,194.48,3.8
+Bridgestone,Alibaba,308.73,133.26,4.1
+Valvoline,Pacific Trade,496.82,255.43,4.4
+Goodyear,Global Trade,579.4,267.18,3.8
+Castrol,Direct Import,186.54,118.99,3.9
+Bosch,Direct Import,388.06,248.12,3.5
+Mobil,Amazon Supply,550.75,308.37,2.9
+Castrol,Alibaba,423.62,270.26,3.3
+Castrol,Alibaba,517.16,347.45,3.2
+Valvoline,Amazon Supply,590.44,261.1,3.0
+Mobil,Domestic Producers,126.85,84.76,4.1
+Castrol,Domestic Producers,108.22,57.58,4.0
+Castrol,Pacific Trade,68.41,45.47,4.4
+Continental,Amazon Supply,313.02,216.03,3.5
+Castrol,Alibaba,590.78,354.69,4.0
+Mobil,Global Trade,116.25,77.26,3.5
+Yakima,MultiSource,114.1,46.07,3.8
+Mobil,Amazon Supply,325.89,200.69,4.6
+Castrol,Amazon Supply,66.06,40.92,2.9
+Braun,Domestic Producers,259.58,144.01,3.8
+Braun,Direct Import,217.42,93.18,3.6
+Garmin,Pacific Trade,249.17,115.82,3.4
+CVS Health,North American Supply,155.85,86.82,3.3
+Pfizer,North American Supply,64.52,34.07,4.5
+Johnson & Johnson,Amazon Supply,43.68,17.91,2.8
+GNC,Amazon Supply,114.16,52.81,4.3
+GNC,Direct Import,200.58,101.34,3.3
+Omron,North American Supply,254.81,119.21,4.8
+Johnson & Johnson,Asian Manufacturing,195.73,74.68,4.1
+Garmin,Global Trade,107.65,56.15,2.7
+CVS Health,Asian Manufacturing,64.84,36.57,3.0
+Johnson & Johnson,Domestic Producers,253.56,106.45,4.0
+Johnson & Johnson,Amazon Supply,212.83,101.77,3.2
+Johnson & Johnson,MultiSource,75.6,27.09,3.2
+Philips,Domestic Producers,201.15,117.59,4.6
+Philips,Domestic Producers,233.33,127.66,4.1
+Pure Vitamin,North American Supply,89.18,51.44,4.1
+Omron,Global Trade,174.73,66.0,3.6
+Philips,Amazon Supply,146.2,82.77,3.8
+Philips,MultiSource,123.41,73.33,2.8
+CVS Health,Euro Logistics,135.43,48.82,4.3
+Pure Vitamin,Alibaba,276.65,116.2,4.6
+Omron,Direct Import,98.28,56.78,4.3
+Garmin,Euro Logistics,244.4,86.64,4.8
+Philips,MultiSource,222.1,94.66,4.5
+Fitbit,Alibaba,95.23,54.11,2.8
+Omron,Euro Logistics,215.55,104.58,2.7
+Garmin,Amazon Supply,83.94,29.64,3.6
+Pure Vitamin,Domestic Producers,100.86,50.39,3.2
+Braun,MultiSource,100.48,53.84,2.6
+Pure Vitamin,Direct Import,272.33,153.34,4.1
+Fitbit,MultiSource,184.07,105.49,2.9
+Pure Vitamin,Asian Manufacturing,37.51,15.37,4.4
+Omron,Domestic Producers,24.88,12.33,4.9
+Philips,Direct Import,258.87,124.35,2.7
+Johnson & Johnson,Alibaba,251.94,125.91,2.8
+Philips,Amazon Supply,41.75,24.11,4.1
+Omron,Amazon Supply,251.35,143.21,3.9
+GNC,Global Trade,162.47,74.35,3.3
+Fitbit,Asian Manufacturing,138.86,75.47,3.9
+Philips,MultiSource,269.37,124.14,4.0
+GNC,Direct Import,194.92,97.06,4.2
+Johnson & Johnson,North American Supply,82.67,39.52,2.8
+Omron,Euro Logistics,124.59,58.8,4.1
+Braun,Pacific Trade,285.9,143.0,4.3
+Omron,Domestic Producers,159.29,81.0,2.7
+Fitbit,North American Supply,87.5,38.54,3.6
+Garmin,North American Supply,28.01,10.78,3.2
+Garmin,Direct Import,291.89,126.34,3.7
+Braun,Euro Logistics,70.89,35.64,3.2
+CVS Health,Domestic Producers,73.99,35.45,2.5
+Johnson & Johnson,North American Supply,17.18,6.95,2.6
+Garmin,Domestic Producers,45.79,19.91,4.4
+Johnson & Johnson,North American Supply,178.03,85.13,3.2
+CVS Health,Pacific Trade,280.55,126.04,2.7
+Johnson & Johnson,Domestic Producers,190.86,72.23,3.3
+CVS Health,Direct Import,159.61,90.75,3.7
+Braun,North American Supply,215.14,128.7,2.8
+Johnson & Johnson,Direct Import,93.3,41.86,3.5
+Garmin,Pacific Trade,132.14,76.23,4.2
+GNC,North American Supply,188.25,80.45,4.5
+Fitbit,North American Supply,287.19,159.48,2.5
+Johnson & Johnson,Asian Manufacturing,196.37,71.24,3.1
+Omron,MultiSource,31.96,16.01,4.1
+Pfizer,Asian Manufacturing,47.63,21.24,3.6
+Johnson & Johnson,Global Trade,120.18,45.7,3.5
+Garmin,Euro Logistics,229.09,84.25,2.7
+Garmin,Direct Import,116.11,67.97,4.1
+GNC,Direct Import,208.42,91.8,3.9
+Fitbit,North American Supply,17.89,9.11,4.7
+Pure Vitamin,Global Trade,189.58,107.76,4.2
+Braun,Global Trade,49.36,28.41,2.7
+Johnson & Johnson,Global Trade,167.18,64.45,2.5
+Pure Vitamin,Global Trade,135.28,57.33,3.7
+Philips,Alibaba,179.5,64.79,2.8
+Braun,North American Supply,174.21,75.92,4.3
+Pfizer,MultiSource,200.9,112.79,4.2
+Pure Vitamin,Euro Logistics,137.53,71.27,3.2
+Philips,Asian Manufacturing,102.3,55.98,3.6
+GNC,Asian Manufacturing,242.54,134.76,4.6
+CVS Health,MultiSource,276.24,126.45,3.3
+Pfizer,North American Supply,180.93,80.11,3.9
+Pure Vitamin,MultiSource,216.09,112.82,3.4
+Philips,Euro Logistics,62.56,28.63,2.8
+Braun,Direct Import,268.68,117.27,2.9
+PetSafe,Global Trade,16.11,7.43,4.0
+Blue Buffalo,Domestic Producers,91.74,29.17,3.5
+Hill's,Euro Logistics,84.69,39.74,4.0
+Purina,MultiSource,97.5,34.56,4.9
+Kong,Direct Import,118.96,56.16,2.8
+Royal Canin,Direct Import,126.54,38.83,3.7
+Royal Canin,Euro Logistics,241.36,95.59,2.6
+Royal Canin,Global Trade,17.43,6.92,2.9
+Iams,MultiSource,15.6,7.63,3.6
+Petmate,Global Trade,79.42,41.7,2.8
+PetSafe,Amazon Supply,239.42,90.62,4.6
+Blue Buffalo,MultiSource,154.71,78.39,4.9
+Kong,Alibaba,79.22,42.8,3.4
+Purina,Pacific Trade,102.52,39.48,3.8
+Petmate,North American Supply,46.99,20.6,3.8
+Blue Buffalo,Pacific Trade,192.86,98.05,3.6
+Royal Canin,North American Supply,82.56,30.12,3.0
+Blue Buffalo,Alibaba,23.84,9.19,3.1
+Kong,Amazon Supply,241.94,106.32,3.3
+Kong,Global Trade,149.31,49.99,3.6
+Hill's,Alibaba,160.3,67.68,3.5
+Iams,MultiSource,248.52,129.25,4.0
+Hill's,MultiSource,146.65,66.75,3.0
+Nylabone,Domestic Producers,104.83,32.48,3.6
+Royal Canin,Alibaba,140.33,50.09,4.8
+Iams,Asian Manufacturing,228.27,109.69,3.8
+Hill's,Direct Import,218.79,72.78,4.4
+Arm & Hammer,Direct Import,39.96,19.92,3.2
+PetSafe,Amazon Supply,220.5,118.19,2.9
+Blue Buffalo,Euro Logistics,121.04,66.0,3.7
+Royal Canin,Alibaba,217.25,97.15,3.4
+Blue Buffalo,Pacific Trade,78.59,27.57,4.3
+Arm & Hammer,MultiSource,102.77,43.97,3.7
+Royal Canin,Amazon Supply,148.55,76.71,4.9
+Nylabone,Domestic Producers,107.82,54.65,4.3
+Petmate,Alibaba,147.65,79.59,3.0
+Petmate,Domestic Producers,36.22,18.6,3.6
+Blue Buffalo,Global Trade,213.27,111.6,2.6
+PetSafe,Alibaba,222.03,91.49,3.7
+Arm & Hammer,North American Supply,160.38,85.26,2.5
+Blue Buffalo,Domestic Producers,124.44,58.73,4.2
+PetSafe,Global Trade,176.21,58.79,3.2
+Royal Canin,Direct Import,96.09,48.15,3.2
+Kong,Amazon Supply,60.57,32.67,2.5
+Petmate,Direct Import,249.48,117.06,4.5
+Petmate,Direct Import,80.71,24.5,4.3
+Petmate,Alibaba,210.19,101.97,2.8
+Nylabone,Alibaba,190.82,93.93,4.1
+PetSafe,North American Supply,193.87,99.16,4.0
+Iams,Alibaba,31.27,13.19,2.7
+Kong,Amazon Supply,107.81,43.32,2.7
+Kong,Asian Manufacturing,93.72,30.72,4.4
+Royal Canin,Domestic Producers,237.45,75.53,4.8
+Kong,Global Trade,135.42,50.77,2.7
+Purina,North American Supply,130.15,64.9,4.2
+Petmate,North American Supply,22.05,7.02,3.5
+Hill's,MultiSource,80.87,28.96,3.2
+Nylabone,Global Trade,202.84,107.97,3.5
+Royal Canin,MultiSource,227.47,86.52,3.6
+Purina,Euro Logistics,64.25,29.56,4.8
+Blue Buffalo,Alibaba,154.84,60.3,4.1
+Blue Buffalo,Alibaba,39.5,20.63,3.7
+Kong,Euro Logistics,117.84,52.61,4.0
+Petmate,Pacific Trade,27.23,12.82,3.1
+Petmate,MultiSource,181.35,91.7,4.4
+Purina,Asian Manufacturing,142.6,61.32,2.8
+Iams,North American Supply,196.08,72.13,3.7
+Purina,North American Supply,78.23,26.09,4.0
+Iams,Amazon Supply,23.04,11.22,3.3
+Kong,Pacific Trade,10.03,4.29,2.6
+PetSafe,MultiSource,76.28,36.37,2.7
+PetSafe,North American Supply,211.44,63.63,3.1
+Hill's,MultiSource,187.82,71.2,2.7
+Nylabone,North American Supply,96.46,35.46,4.5
+Graco,Amazon Supply,119.97,64.39,4.6
+VTech,Amazon Supply,160.33,91.87,3.4
+VTech,Domestic Producers,337.97,110.44,4.1
+Gerber,Direct Import,180.43,75.11,4.0
+Graco,North American Supply,250.79,75.57,2.9
+Huggies,Amazon Supply,253.87,126.91,4.8
+Baby Einstein,Euro Logistics,269.95,157.98,4.2
+Graco,MultiSource,114.85,38.09,4.4
+Britax,Pacific Trade,230.79,72.57,3.4
+Gerber,MultiSource,335.53,151.03,3.5
+Baby Einstein,MultiSource,168.33,61.05,3.4
+Pampers,North American Supply,138.89,43.85,4.3
+Britax,Pacific Trade,154.53,84.47,4.5
+Pampers,Amazon Supply,86.02,42.77,3.6
+VTech,North American Supply,309.85,113.01,4.1
+Chicco,Global Trade,218.6,84.95,2.8
+Pampers,Global Trade,233.3,121.68,3.3
+Britax,MultiSource,231.02,96.69,4.2
+Pampers,Global Trade,81.74,46.35,3.2
+Huggies,Asian Manufacturing,138.21,43.87,2.8
+Baby Einstein,North American Supply,187.81,71.42,4.5
+VTech,Domestic Producers,19.92,8.24,3.3
+Britax,Global Trade,21.47,7.24,3.5
+Evenflo,North American Supply,180.11,75.88,3.8
+Baby Einstein,MultiSource,214.37,64.95,3.6
+Huggies,Domestic Producers,337.77,153.93,4.1
+Gerber,Direct Import,119.47,63.58,4.4
+VTech,North American Supply,189.63,112.41,2.8
+Graco,Asian Manufacturing,20.68,10.98,4.4
+Huggies,Alibaba,55.27,20.98,2.5
+Gerber,MultiSource,113.26,60.25,3.7
+Chicco,Pacific Trade,131.61,54.16,2.5
+Chicco,Amazon Supply,115.43,57.02,4.8
+Graco,Euro Logistics,298.77,91.75,4.7
+Evenflo,Asian Manufacturing,277.37,148.15,3.6
+Britax,Euro Logistics,148.33,57.98,2.7
+Evenflo,Asian Manufacturing,91.46,34.2,3.7
+Gerber,Amazon Supply,265.39,117.34,2.6
+Evenflo,Global Trade,335.86,195.75,4.4
+Evenflo,Amazon Supply,347.09,160.82,4.8
+Baby Einstein,North American Supply,40.33,16.52,3.0
+Huggies,Direct Import,80.6,27.58,4.0
+Chicco,Euro Logistics,276.74,131.03,2.9
+Gerber,Global Trade,286.73,140.72,3.4
+Baby Einstein,Direct Import,240.83,91.03,3.3
+Fisher-Price,Amazon Supply,322.36,124.8,3.6
+Fisher-Price,Global Trade,313.2,160.46,2.6
+Fisher-Price,MultiSource,64.35,19.46,4.0
+Pampers,North American Supply,164.97,56.14,4.8
+Chicco,Domestic Producers,192.44,71.7,3.7
+Baby Einstein,MultiSource,242.67,78.35,3.2
+Chicco,Global Trade,285.33,124.95,3.8
+Huggies,Amazon Supply,159.99,50.1,2.9
+Graco,Pacific Trade,164.26,59.59,2.6
+Evenflo,Direct Import,297.62,176.89,4.4
+VTech,Pacific Trade,301.02,112.16,4.8
+Britax,Amazon Supply,80.97,47.4,4.9
+Gerber,North American Supply,253.43,150.62,3.9
+Huggies,MultiSource,101.95,43.95,3.9
+Evenflo,Direct Import,39.48,19.22,4.9
+Baby Einstein,Global Trade,78.69,42.32,4.7
+Chicco,Domestic Producers,331.14,194.72,3.8
+Gerber,Global Trade,342.4,180.51,2.9
+VTech,Direct Import,174.76,90.09,3.1
+Pampers,Amazon Supply,229.61,114.8,2.9
+Chicco,Global Trade,204.3,108.58,3.7
+Gerber,Global Trade,19.05,5.77,3.4
+Baby Einstein,Asian Manufacturing,325.28,119.9,4.0
+Baby Einstein,Direct Import,89.4,35.45,4.5
+Graco,Amazon Supply,259.17,85.17,3.5
+Graco,Asian Manufacturing,24.77,11.0,4.1
+Chicco,Euro Logistics,54.7,21.15,3.5
+Gerber,Euro Logistics,323.04,193.17,2.6
+Britax,Direct Import,269.94,111.08,3.4
+Huggies,Direct Import,267.68,154.06,4.8
+Pandora,Domestic Producers,598.27,303.4,4.4
+Mikimoto,Global Trade,288.45,164.19,3.4
+Pandora,Domestic Producers,673.8,318.11,3.0
+Mikimoto,North American Supply,922.33,397.1,3.7
+Mikimoto,Alibaba,259.81,106.96,2.6
+Tiffany,Amazon Supply,216.46,142.87,3.2
+Tiffany,Domestic Producers,952.94,547.45,3.5
+Bvlgari,Asian Manufacturing,601.08,333.61,4.3
+Mikimoto,Pacific Trade,318.37,161.07,4.6
+Mikimoto,Alibaba,949.13,633.8,3.5
+David Yurman,Direct Import,791.35,429.62,3.7
+Bvlgari,Euro Logistics,244.45,141.13,2.9
+David Yurman,Asian Manufacturing,364.99,239.62,3.0
+Messika,Euro Logistics,117.6,49.47,4.8
+David Yurman,Amazon Supply,531.57,277.92,4.4
+Pandora,MultiSource,844.03,421.73,4.2
+Messika,MultiSource,782.57,466.72,2.9
+David Yurman,Asian Manufacturing,882.09,495.49,3.2
+Van Cleef,Domestic Producers,453.97,186.7,2.8
+Pandora,North American Supply,777.27,310.91,3.5
+Van Cleef,Pacific Trade,546.38,227.51,4.8
+Pandora,North American Supply,264.82,130.1,3.2
+Tous,Direct Import,268.9,107.68,4.3
+Cartier,North American Supply,968.5,452.57,4.1
+Swarovski,MultiSource,754.8,494.04,3.5
+Cartier,Euro Logistics,337.78,168.08,4.2
+David Yurman,Asian Manufacturing,825.94,375.38,3.4
+Pandora,Amazon Supply,906.84,582.2,4.9
+Tiffany,Euro Logistics,766.54,397.04,3.9
+Messika,Domestic Producers,677.96,287.14,3.8
+Swarovski,Global Trade,723.85,325.87,4.4
+Van Cleef,Domestic Producers,604.58,414.54,2.6
+Van Cleef,Asian Manufacturing,302.06,175.34,3.2
+Pandora,MultiSource,728.7,457.41,2.7
+Tous,MultiSource,538.16,297.42,3.4
+David Yurman,Euro Logistics,936.28,606.95,4.2
+David Yurman,Alibaba,728.61,392.37,4.7
+Cartier,Pacific Trade,709.87,439.19,4.6
+Tous,MultiSource,310.37,199.3,3.0
+Swarovski,Asian Manufacturing,378.07,189.29,4.8
+Mikimoto,North American Supply,863.71,527.17,4.2
+Tiffany,Euro Logistics,583.97,399.51,3.7
+David Yurman,Domestic Producers,411.49,184.72,4.4
+David Yurman,Euro Logistics,747.72,385.3,2.6
+Tous,Alibaba,847.05,341.72,4.2
+Cartier,Pacific Trade,971.74,516.28,3.1
+Bvlgari,North American Supply,719.63,464.26,3.8
+Messika,North American Supply,968.68,402.49,3.7
+Tiffany,Pacific Trade,732.53,482.59,2.9
+Tiffany,Domestic Producers,810.0,458.31,3.5
+Tous,Asian Manufacturing,175.13,115.51,2.9
+Van Cleef,Direct Import,344.3,167.68,4.6
+Bvlgari,Amazon Supply,689.07,440.32,3.1
+Tous,MultiSource,643.63,367.85,4.5
+Tous,Euro Logistics,910.78,367.63,4.1
+Mikimoto,Domestic Producers,99.24,56.04,3.2
+Cartier,Global Trade,341.44,172.73,4.0
+Cartier,Pacific Trade,367.35,227.69,3.5
+Van Cleef,North American Supply,114.94,73.0,3.2
+Tous,North American Supply,461.13,279.28,3.3
+Pandora,Asian Manufacturing,103.76,53.14,4.8
+Mikimoto,Direct Import,659.65,396.74,4.0
+Messika,Direct Import,239.04,125.62,4.3
+Tiffany,Alibaba,146.3,70.71,3.2
+Pandora,North American Supply,460.42,319.58,2.7
+David Yurman,Direct Import,542.77,246.31,4.8
+David Yurman,Global Trade,157.64,82.14,4.3
+Mikimoto,Direct Import,719.33,378.96,3.3
+Pandora,North American Supply,427.73,205.0,3.0
+Kraft Heinz,Global Trade,50.89,16.14,3.2
+Mars,Domestic Producers,67.39,33.16,3.9
+Coca-Cola,Domestic Producers,12.31,3.31,4.8
+Kraft Heinz,Direct Import,33.24,9.08,3.9
+Unilever,Direct Import,64.25,26.48,3.1
+Mondelez,Domestic Producers,6.44,3.16,3.1
+Coca-Cola,MultiSource,69.22,29.53,4.0
+Nestle,North American Supply,34.73,11.04,3.9
+Kraft Heinz,Amazon Supply,87.28,42.48,2.8
+Mars,Domestic Producers,19.71,9.58,4.3
+Coca-Cola,Alibaba,88.88,26.72,3.9
+P&G,MultiSource,71.61,30.08,3.5
+Coca-Cola,Domestic Producers,6.46,2.56,3.1
+P&G,Asian Manufacturing,47.77,23.38,3.5
+P&G,MultiSource,84.78,25.19,4.1
+General Mills,Direct Import,97.82,26.95,2.5
+P&G,Pacific Trade,46.19,12.62,4.3
+General Mills,Asian Manufacturing,91.88,32.94,3.1
+Nestle,Domestic Producers,46.27,19.94,2.5
+PepsiCo,Alibaba,61.0,24.6,4.0
+Mondelez,North American Supply,27.99,11.99,2.7
+Mars,Global Trade,23.93,11.23,4.3
+Mars,Asian Manufacturing,6.31,1.97,3.0
+Mars,Direct Import,30.73,9.58,2.7
+P&G,MultiSource,48.6,21.05,4.0
+General Mills,Direct Import,68.92,18.63,4.8
+PepsiCo,Direct Import,84.66,38.2,4.5
+Kraft Heinz,MultiSource,93.61,36.14,3.0
+Unilever,Pacific Trade,63.59,27.71,4.3
+Kraft Heinz,Global Trade,54.54,14.57,3.4
+Unilever,North American Supply,92.47,36.63,3.8
+Unilever,North American Supply,30.54,10.45,4.6
+Coca-Cola,Domestic Producers,68.31,30.52,3.6
+Mondelez,Asian Manufacturing,64.87,20.25,4.2
+PepsiCo,Euro Logistics,45.62,16.45,4.1
+Unilever,Euro Logistics,93.95,24.99,4.5
+PepsiCo,Euro Logistics,32.78,11.83,2.6
+Coca-Cola,Asian Manufacturing,33.6,12.62,2.6
+Mondelez,North American Supply,51.65,24.88,2.8
+Mondelez,North American Supply,77.62,27.35,4.1
+Unilever,Euro Logistics,29.72,8.62,2.9
+Coca-Cola,Amazon Supply,11.7,3.47,4.1
+Unilever,Pacific Trade,88.76,40.26,4.1
+Mars,North American Supply,15.49,4.99,3.2
+General Mills,Euro Logistics,28.75,10.89,3.8
+Nestle,Euro Logistics,38.9,13.17,4.5
+Kellogg's,North American Supply,79.98,26.15,4.7
+Mondelez,Euro Logistics,95.52,31.68,3.4
+Mondelez,Asian Manufacturing,53.04,25.74,4.6
+PepsiCo,Direct Import,14.74,5.13,3.8
+Coca-Cola,Direct Import,52.8,15.76,4.6
+Coca-Cola,Global Trade,69.31,31.85,4.6
+Kellogg's,Domestic Producers,76.09,27.38,4.0
+P&G,Asian Manufacturing,20.23,8.46,2.9
+PepsiCo,Alibaba,70.93,21.8,2.8
+Unilever,Asian Manufacturing,20.7,5.19,4.2
+PepsiCo,Alibaba,74.58,28.25,2.9
+Kellogg's,Pacific Trade,12.94,3.3,2.9
+Kraft Heinz,MultiSource,89.63,27.82,3.4
+Kellogg's,Global Trade,15.01,4.59,3.7
+Nestle,Direct Import,62.74,19.53,2.6
+General Mills,Pacific Trade,42.15,13.01,3.0
+Mondelez,MultiSource,96.19,38.87,3.8
+PepsiCo,Euro Logistics,44.5,15.9,3.8
+Kraft Heinz,Euro Logistics,71.16,30.28,2.9
+Nestle,Amazon Supply,52.51,18.54,4.6
+P&G,Asian Manufacturing,64.98,24.9,2.8
+Unilever,Alibaba,62.54,17.47,3.3
+General Mills,Pacific Trade,18.57,7.86,3.0
+General Mills,Alibaba,42.23,20.01,3.0
+Mars,MultiSource,53.24,18.89,2.5
+Coca-Cola,Alibaba,80.31,21.46,3.6
+Nestle,Euro Logistics,58.26,23.72,4.2
+P&G,Domestic Producers,29.06,7.34,4.2
+Kellogg's,North American Supply,55.89,25.66,4.5
+Coca-Cola,MultiSource,85.12,31.6,3.3
+Unilever,Direct Import,80.2,29.1,2.9
+Mondelez,Global Trade,86.22,40.58,3.6
+PaperMate,Euro Logistics,31.95,12.68,4.4
+Avery,Amazon Supply,271.51,95.26,2.7
+Sharpie,Global Trade,264.43,105.07,3.8
+PaperMate,Euro Logistics,290.74,92.06,4.1
+3M,Alibaba,31.49,12.4,4.4
+Sharpie,Euro Logistics,135.71,74.54,3.8
+Mead,Asian Manufacturing,103.14,36.62,3.3
+3M,Domestic Producers,118.03,37.44,3.4
+Bic,Pacific Trade,144.63,69.52,4.1
+Five Star,North American Supply,215.54,65.11,3.0
+Office Depot,Pacific Trade,201.89,85.0,2.5
+Office Depot,Global Trade,243.3,120.0,3.8
+3M,MultiSource,29.27,14.39,3.9
+Avery,Alibaba,236.77,115.53,4.4
+Post-it,Pacific Trade,160.22,53.69,4.1
+Avery,MultiSource,189.94,92.23,2.9
+Post-it,North American Supply,66.54,34.77,4.3
+Post-it,Domestic Producers,273.39,133.87,3.9
+Mead,Alibaba,199.7,104.3,3.9
+Post-it,North American Supply,193.39,65.58,3.6
+Avery,Alibaba,217.76,80.08,3.0
+Office Depot,MultiSource,101.01,36.4,3.0
+Post-it,Global Trade,133.21,70.2,3.7
+Five Star,Euro Logistics,64.5,20.59,4.2
+Office Depot,Euro Logistics,121.01,61.17,4.1
+Sharpie,Domestic Producers,240.91,88.65,4.2
+Avery,Asian Manufacturing,86.58,46.3,4.0
+3M,MultiSource,104.11,38.25,3.0
+3M,MultiSource,211.45,75.0,3.9
+Mead,North American Supply,86.74,40.38,4.5
+Bic,Direct Import,235.63,115.51,3.0
+PaperMate,Direct Import,35.63,16.91,3.4
+Avery,Asian Manufacturing,135.38,41.67,3.1
+Mead,Amazon Supply,19.77,10.28,3.1
+PaperMate,Direct Import,171.63,53.16,4.1
+Sharpie,Amazon Supply,103.68,54.38,4.6
+Mead,Amazon Supply,104.33,54.8,4.9
+Staples,Direct Import,249.37,127.48,3.1
+Five Star,Asian Manufacturing,177.24,56.15,2.7
+Mead,Direct Import,299.68,114.38,4.3
+3M,Global Trade,243.93,125.5,4.9
+Sharpie,Direct Import,80.03,24.82,3.5
+PaperMate,Amazon Supply,47.72,14.58,3.4
+Avery,Domestic Producers,237.28,104.77,3.3
+PaperMate,Amazon Supply,199.76,71.51,2.5
+Five Star,MultiSource,231.66,105.62,4.3
+Staples,MultiSource,21.29,10.84,4.0
+Five Star,Pacific Trade,173.38,79.09,4.6
+PaperMate,Domestic Producers,180.21,80.24,4.9
+Staples,Direct Import,229.45,94.21,4.2
+PaperMate,Euro Logistics,122.88,43.9,3.9
+Staples,Pacific Trade,279.17,148.6,3.3
+Post-it,Alibaba,163.03,57.53,4.9
+Avery,Domestic Producers,294.52,136.18,4.4
+Staples,Pacific Trade,217.38,97.45,2.6
+Sharpie,Amazon Supply,141.88,66.5,4.1
+Five Star,Alibaba,118.21,63.29,2.9
+Office Depot,MultiSource,155.1,73.32,4.2
+Staples,Euro Logistics,198.11,73.07,2.9
+Bic,Global Trade,194.42,87.46,2.9
+Bic,North American Supply,214.49,88.75,4.1
+Bic,MultiSource,252.84,86.58,2.5
+Bic,Pacific Trade,235.94,106.75,4.2
+Office Depot,Direct Import,253.06,126.71,4.8
+3M,North American Supply,165.42,69.83,3.5
+Office Depot,Global Trade,54.57,24.18,3.2
+Five Star,Pacific Trade,277.18,123.57,3.9
+3M,Asian Manufacturing,112.93,35.35,2.6
+Staples,Alibaba,132.77,42.64,4.0
+Post-it,MultiSource,265.48,138.24,4.1
+Five Star,Pacific Trade,71.26,36.75,4.6
+Five Star,Pacific Trade,67.03,32.47,3.2
+Avery,Asian Manufacturing,242.77,133.36,2.6
+PaperMate,North American Supply,270.24,123.14,4.8
+3M,Euro Logistics,144.85,74.14,2.6
+Avery,Amazon Supply,107.23,33.97,4.8
+Staples,Pacific Trade,246.92,126.7,4.8
+Mead,Alibaba,34.68,13.75,2.7
+Avery,Asian Manufacturing,71.13,25.42,3.6
+Office Depot,Amazon Supply,87.88,28.58,2.9
